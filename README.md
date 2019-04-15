@@ -1,12 +1,14 @@
 # memorandum
 
+> 记录小印章儿的一些重要信息
+
 ### 采用AES加密
 Email: xiaoseal@yeah.net  
-U2FsdGVkX19yc7rVX4jHmcjQoRjvlcecmEWFfpGnT18qynsBaBLMrS59NNQaNfR+
+PWD: U2FsdGVkX19yc7rVX4jHmcjQoRjvlcecmEWFfpGnT18qynsBaBLMrS59NNQaNfR+
 
 --
 
-GH: U2FsdGVkX1/iha2eCq6Vb5t9fADKAbJGnJou6QMaOoYbwWwylBB/sO0+vJLqoez1
+GH-PWD: U2FsdGVkX1/iha2eCq6Vb5t9fADKAbJGnJou6QMaOoYbwWwylBB/sO0+vJLqoez1
 
 --
 
